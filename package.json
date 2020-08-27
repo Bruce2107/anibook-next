@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "anibook-ui": "^1.2.1",
     "next": "9.5.2",
+    "next-compose-plugins": "^2.2.0",
     "next-images": "^1.4.1",
+    "next-transpile-modules": "^4.1.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "styled-components": "^5.1.1"
